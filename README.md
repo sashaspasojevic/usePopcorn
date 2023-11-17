@@ -1,3 +1,5 @@
+#In this application usePopcorn, made in React, you can search the database of movies on the Internet, see ratings on imdb, rate a movie, add it to your list of watched movies, as well as remove a movie from the list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
